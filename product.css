@@ -28,7 +28,7 @@ font-size: 30px;
     box-shadow: 0 3px 6px;
 }
 .product-sec img{
-    width: 300px;
+    width:auto;
     height: 250px;
 }
 .product-sec .fa{
